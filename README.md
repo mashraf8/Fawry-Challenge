@@ -36,3 +36,7 @@ Used instead of regular HashMap because we need to preserve insertion order when
 
 ## Program Output
 ![Program Output](image/output.png)
+
+## Note
+I noticed an unusual number of clone operations during the period allocated for the solution. This indicates the possibility that others might have used this solution without permission.
+[Mohammed Ashraf](https://github.com/mashraf8/Fawry-Challenge)
